@@ -1,5 +1,5 @@
 import cv2
-from src.face_detection import detect_faces
+from ..src.face_detection import detect_faces
 
 def main():
     # Start video streaming from webcam
