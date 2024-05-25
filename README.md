@@ -1,6 +1,6 @@
 # Face Detection
 
-This project uses OpenCV to perform real-time face detection using a webcam.
+This project uses OpenCV to perform real-time face detection using a webcam and image.
 
 ## Installation
 
@@ -20,3 +20,4 @@ This project uses OpenCV to perform real-time face detection using a webcam.
 To run the face detection example, use the following command:
 ```bash
 python examples/example_usage.py
+
